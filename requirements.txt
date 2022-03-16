@@ -1,0 +1,12 @@
+numpy
+sqlalchemy
+cvxpy
+sys
+math
+enum
+pandas
+scipy
+matplotlib
+matplotlib
+matplotlib
+argparse
