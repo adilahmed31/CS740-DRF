@@ -16,6 +16,13 @@ UserX_Demand1,UserX_Demand2....,UserX_DemandN
 ```
 An example `tasks.csv` file is included. Optionally, one can provide a `weights.csv` file in the format provided.
 
+## Setup
+
+Install required packages.
+```
+pip install -r requirements.txt
+```
+
 ## Usage:
 
 ```
